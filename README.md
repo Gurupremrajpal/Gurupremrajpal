@@ -1,4 +1,3 @@
-<p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 
 ### Hi there I'm [Guruprem!](https://guruprem-rajpal.jimdosite.com)👋
 
