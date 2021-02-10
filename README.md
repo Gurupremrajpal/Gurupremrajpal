@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-![visitors](https://badges.pufler.dev/visits/Jonathan-Welham/Jonathan-Welham)![years](https://badges.pufler.dev/years/Gurupremrajpal) 
+![visitors](https://badges.pufler.dev/visits/Gurupremrajpal/Gurupremrajpal)![years](https://badges.pufler.dev/years/Gurupremrajpal) 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gurupremrajpal)
 <!--(https://github.com/anuraghazra/github-readme-stats) -->
@@ -11,7 +11,7 @@
 
 ## Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupremrajpal&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupremrajpal)](https://github.com/Gurupremrajpal/github-readme-stats)
 
 
 <!--
