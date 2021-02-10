@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gurupremrajpal&repo=Gurupremrajpal)](https://github.com/Gurupremrajpal/Gurupremrajpal)
-<br>
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gurupremrajpal)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
