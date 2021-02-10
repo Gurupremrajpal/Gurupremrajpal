@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
 <img align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg" />
