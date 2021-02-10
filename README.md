@@ -3,12 +3,11 @@
 ### Hi there 👋
 ![visitors](https://badges.pufler.dev/visits/Gurupremrajpal/Gurupremrajpal)![years](https://badges.pufler.dev/years/Gurupremrajpal) 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gurupremrajpal)
-<!--(https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupremrajpal&show_icons=true&theme=radical)
-
+<!--(https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Languages and Tools:
 
