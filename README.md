@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-
+![visitors](https://badges.pufler.dev/visits/Jonathan-Welham/Jonathan-Welham)![years](https://badges.pufler.dev/years/Gurupremrajpal) 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gurupremrajpal)
 <!--(https://github.com/anuraghazra/github-readme-stats) -->
