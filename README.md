@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://wakatime.com/share/@Gurupremrajpal/76d795c2-9441-4cbd-b4f7-78ea5692573b.svg" />
+<img width= "50px"src="https://wakatime.com/share/@Gurupremrajpal/76d795c2-9441-4cbd-b4f7-78ea5692573b.svg" />
 
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
 <img align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg" />
