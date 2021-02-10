@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 <br />
 
 
--  Hire me!
+-  Hire me
