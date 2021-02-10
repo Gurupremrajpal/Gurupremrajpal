@@ -9,7 +9,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupremrajpal)
 <!--(https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" width= "400px" src="https://wakatime.com/share/@Gurupremrajpal/76d795c2-9441-4cbd-b4f7-78ea5692573b.svg" />
 
 ## Languages and Tools:
 
