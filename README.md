@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=Gurupremrajpal&langs_count=8)](https://github.com/Gurupremrajpal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Gurupremrajpal&langs_count=8)](https://github.com/Gurupremrajpal/github-readme-stats)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gurupremrajpal)](https://github.com/anuraghazra/github-readme-stats)
