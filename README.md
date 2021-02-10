@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupremrajpal)](https://github.com/Gurupremrajpal/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupremrajpal)](https://github.com/Gurupremrajpal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupremrajpal&hide=javascript,html)](https://github.com/Gurupremrajpal/github-readme-stats)
 
 
 <!--
