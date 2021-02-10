@@ -1,6 +1,6 @@
 
 
-### Hi there I'm [Guruprem!](https://Gurupremrajpal.github.io)👋
+### Hi there I'm [Guruprem!](https://guruprem-rajpal.jimdosite.com)👋
 
 ![visitors](https://badges.pufler.dev/visits/Gurupremrajpal/Gurupremrajpal)![years](https://badges.pufler.dev/years/Gurupremrajpal) 
 
