@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" width= "500px" src="https://wakatime.com/share/@Gurupremrajpal/76d795c2-9441-4cbd-b4f7-78ea5692573b.svg" />
+<img align="left" width= "400px" src="https://wakatime.com/share/@Gurupremrajpal/76d795c2-9441-4cbd-b4f7-78ea5692573b.svg" />
 <br>
 <br>
 
