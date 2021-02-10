@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupremrajpal&langs_count=8)](https://github.com/Gurupremrajpal)
 
 <img align="left" width= "400px" src="https://wakatime.com/share/@Gurupremrajpal/76d795c2-9441-4cbd-b4f7-78ea5692573b.svg" />
-<br>
+
 <!--
 **Gurupremrajpal/Gurupremrajpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
