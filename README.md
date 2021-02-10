@@ -11,7 +11,7 @@
 
 ## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupremrajpal&langs_count=8)](https://github.com/Gurupremrajpal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupremrajpal&langs_count=8)](https://github.com/Gurupremrajpal)
 
 <!--
 **Gurupremrajpal/Gurupremrajpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![willianrod's wakatime stats](
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=Gurupremrajpal" (https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gurupremrajpal)](https://github.com/Gurupremrajpal)
 
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
 <img align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg" />
