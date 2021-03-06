@@ -1,5 +1,5 @@
 
-### Hi there I'm [Guruprem!](https://guruprem-rajpal.jimdosite.com)👋
+### Hi there I'm [Guruprem!](https://gurupremrajpal.wixsite.com/my-site)👋
 
 ![visitors](https://badges.pufler.dev/visits/Gurupremrajpal/Gurupremrajpal)![years](https://badges.pufler.dev/years/Gurupremrajpal) 
 
